@@ -1,1 +1,0 @@
-# STRIPS-pyperplan
